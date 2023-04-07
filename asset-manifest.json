@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/Dep_Fis/static/css/main.756af292.css",
-    "main.js": "/Dep_Fis/static/js/main.7fb0c8ce.js",
+    "main.js": "/Dep_Fis/static/js/main.ac16230e.js",
     "static/js/787.34115356.chunk.js": "/Dep_Fis/static/js/787.34115356.chunk.js",
     "static/media/catFish3.jpg": "/Dep_Fis/static/media/catFish3.cc67070aab7e9a4d2cad.jpg",
     "static/media/catFish4.jpg": "/Dep_Fis/static/media/catFish4.d73324f918bd88f9d61f.jpg",
@@ -9,11 +9,11 @@
     "static/media/logo.svg": "/Dep_Fis/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
     "index.html": "/Dep_Fis/index.html",
     "main.756af292.css.map": "/Dep_Fis/static/css/main.756af292.css.map",
-    "main.7fb0c8ce.js.map": "/Dep_Fis/static/js/main.7fb0c8ce.js.map",
+    "main.ac16230e.js.map": "/Dep_Fis/static/js/main.ac16230e.js.map",
     "787.34115356.chunk.js.map": "/Dep_Fis/static/js/787.34115356.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.756af292.css",
-    "static/js/main.7fb0c8ce.js"
+    "static/js/main.ac16230e.js"
   ]
 }
